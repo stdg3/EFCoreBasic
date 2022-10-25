@@ -45,7 +45,10 @@ static void ReadCourceFromDb()
     using var dbContext = new ApplicationDbContext();
 
 
-    var cources = dbContext.Cources.ToList();
+    var cources = dbContext
+        .Cources
+        .Where(c => c.LessonQuantity > 8)
+        .ToList();
 
     foreach (var cource in cources)
     {
