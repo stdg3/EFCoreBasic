@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sK7C1nl+w63YL1ESoGzYY1PJIl0LTFdS224YU3igXFlQnhbVB6tu1ioEGgWByjzr3/u9qM0v7UpbF07x1EWodg==",
+  "dgSpecHash": "iIuRORbQHiSYhyrVyRXczVcx3PcFcVtxKlhDLoCpiJL+YN6VyFo7e6nK5PpbvoBouApmW9TVX5DObG3yC2XYSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\avelicoglo\\Desktop\\internProjects\\cSharpITDVN\\EFCoreBasic\\ORMIntroToEF\\ORMIntroToEF\\EFCoreBasicFluentApiIEntityTypeConfiguration\\EFCoreBasicFluentApiIEntityTypeConfiguration.csproj",
+  "projectFilePath": "C:\\Users\\avelicoglo\\Desktop\\internProjects\\cSharpITDVN\\EFCoreBasic\\ORMIntroToEF\\ORMIntroToEF\\EFCoreBasic004FluentApiIEntityTypeConfiguration\\EFCoreBasic004FluentApiIEntityTypeConfiguration.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\avelicoglo\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

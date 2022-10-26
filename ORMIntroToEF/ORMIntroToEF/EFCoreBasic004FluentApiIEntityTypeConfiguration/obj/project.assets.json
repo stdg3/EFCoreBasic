@@ -1917,11 +1917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\avelicoglo\\Desktop\\internProjects\\cSharpITDVN\\EFCoreBasic\\ORMIntroToEF\\ORMIntroToEF\\EFCoreBasicFluentApiIEntityTypeConfiguration\\EFCoreBasicFluentApiIEntityTypeConfiguration.csproj",
-      "projectName": "EFCoreBasicFluentApiIEntityTypeConfiguration",
-      "projectPath": "C:\\Users\\avelicoglo\\Desktop\\internProjects\\cSharpITDVN\\EFCoreBasic\\ORMIntroToEF\\ORMIntroToEF\\EFCoreBasicFluentApiIEntityTypeConfiguration\\EFCoreBasicFluentApiIEntityTypeConfiguration.csproj",
+      "projectUniqueName": "C:\\Users\\avelicoglo\\Desktop\\internProjects\\cSharpITDVN\\EFCoreBasic\\ORMIntroToEF\\ORMIntroToEF\\EFCoreBasic004FluentApiIEntityTypeConfiguration\\EFCoreBasic004FluentApiIEntityTypeConfiguration.csproj",
+      "projectName": "EFCoreBasic004FluentApiIEntityTypeConfiguration",
+      "projectPath": "C:\\Users\\avelicoglo\\Desktop\\internProjects\\cSharpITDVN\\EFCoreBasic\\ORMIntroToEF\\ORMIntroToEF\\EFCoreBasic004FluentApiIEntityTypeConfiguration\\EFCoreBasic004FluentApiIEntityTypeConfiguration.csproj",
       "packagesPath": "C:\\Users\\avelicoglo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\avelicoglo\\Desktop\\internProjects\\cSharpITDVN\\EFCoreBasic\\ORMIntroToEF\\ORMIntroToEF\\EFCoreBasicFluentApiIEntityTypeConfiguration\\obj\\",
+      "outputPath": "C:\\Users\\avelicoglo\\Desktop\\internProjects\\cSharpITDVN\\EFCoreBasic\\ORMIntroToEF\\ORMIntroToEF\\EFCoreBasic004FluentApiIEntityTypeConfiguration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
