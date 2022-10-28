@@ -93,6 +93,22 @@ static void ReadCourceFromDb()
     Console.WriteLine(new String('*', 80));
 
 }
+/*
+ Author Name John Smit
+course name C# Advanced. les qt: 7
+course name Entity Framework Basic. les qt: 10
+Author Name Artur Morgan   
+********************************************************************************  
+generated sql
+SELECT [a].[Id], [a].[FirstName], [a].[LastName], [t].[Id], [t].[AuthorId], [t].[LessonQuantity], [t].[Name]
+FROM [Authors] AS [a]
+LEFT JOIN ( 
+    SELECT [c].[Id], [c].[AuthorId], [c].[LessonQuantity], [c].[Name]
+    FROM [Cources] AS [c]
+    WHERE [c].[LessonQuantity] > 5
+) AS [t] ON [a].[Id] = [t].[AuthorId]
+    ORDER BY [a].[Id], [t].[LessonQuantity]  
+ */
 
 public class ApplicationDbContext : DbContext
 {
